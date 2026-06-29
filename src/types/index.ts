@@ -45,3 +45,9 @@ export interface ProfileDetailResponse {
     user_profile: FullUserProfile;
   };
 }
+
+export interface ListEntry {
+  profile: UserProfileSummary;
+  platform: Platform;
+  addedAt: number;
+}
