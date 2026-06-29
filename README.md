@@ -2,7 +2,7 @@
 
 A redesigned and fully implemented version of the Wobb frontend take-home assignment.
 
-**Live demo:** _(deploy to Vercel and add URL here)_
+**Live demo:** _https://wobb-influencer-search.vercel.app/_
 
 ---
 
